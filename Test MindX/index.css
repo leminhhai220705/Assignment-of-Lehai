@@ -1,0 +1,365 @@
+.main{
+    width: 800px;
+    height: 450px;
+    background-color: white;
+    color: aliceblue;
+    margin-left: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+.open{
+    width: 80%;
+    height: 70px;
+  
+    color: #f4f1f1;
+    margin-top: 50px;
+    
+    position: relative;
+    
+
+}
+.users{
+    color: black;
+    margin-top: -2px;
+    margin-left: -50px;
+    
+}
+
+.search{
+    margin-left: -50px;
+   background-color: white(243, 247, 247);
+   width: 250px;
+   height: 50px;
+   border: 1px solid black;
+   color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 5px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   -ms-border-radius: 5px;
+   -o-border-radius: 5px;
+}
+.item{
+    margin-left: -100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list{
+    color: black;
+    /* background-color: aqua; */
+    width: 550px;
+   height: 30px;
+   position: absolute;
+   bottom: 0px;
+   right: -250px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between ;
+   font-size: larger;
+   
+   
+}
+.Newusers{
+    width: 120px;
+    height: 50px;
+    background-color: rgb(0, 174, 255);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.body{
+    margin-top: -250px;
+    width: 70%;
+    height: 300px;
+    background-color: white;
+    margin-left: 300px;
+    
+}
+
+.item1{
+    gap: 5px;
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    display: flex;
+
+}
+.item2{
+    gap: 5px;
+    width: 100%;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    margin-top: 5px;
+    
+}
+
+.person1{
+    width: 34%;
+    height: 150px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.img1{
+    position: relative;
+}
+
+.h5{
+   position: absolute;
+   right: 870px;
+   top: 470px;
+   color: #050404;
+}
+
+.para{
+    color: rgb(0, 1, 1);
+    position: absolute;
+    right: 920px;
+    top: 495px;
+}
+
+.clothes{
+    color: rgb(0, 110, 255);
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 150px;
+    margin-top: -20px;
+}
+
+.stem{
+    color: rgb(0, 110, 255);
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 210px;
+    margin-top: -21.5px;
+}
+
+.Jesus{
+    position: absolute;
+    right: 550px;
+    top: 470px;
+    color: #050404;
+}
+
+.Fort{
+    color: rgb(0, 1, 1);
+    position: absolute;
+    right: 545px;
+    top: 497px;
+}
+
+.headset{
+    color: rgb(0, 110, 255);
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 150px;
+    margin-top: -27px;
+}
+
+.gadget{
+    color: rgb(0, 110, 255);
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 210px;
+    margin-top: -21.5px;
+}
+
+.speed{
+    color: rgb(0, 110, 255);
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 150px;
+    margin-top: 5px;
+}
+
+.winter{
+    color: rgb(0, 110, 255);
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 210px;
+    margin-top: -21.5px;
+}
+
+.Annie{
+    position: absolute;
+    right: 220px;
+    top: 470px;
+    color: #050404;
+}
+
+.Austin{
+    color: rgb(0, 1, 1);
+    position: absolute;
+    right: 235px;
+    top: 497px;
+}
+
+.nature{
+    color: rgb(0, 110, 255);
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 269px;
+    margin-top: -21.5px;
+}
+
+.Robert{
+    position: absolute;
+    right: 860px;
+    top: 620px;
+    color: #050404;
+}
+
+.Cincinnati{
+    color: rgb(0, 1, 1);
+    position: absolute;
+    right: 884px;
+    top: 645px;
+}
+
+.Maintenance{
+    color: rgb(0, 110, 255);
+    width: 80px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 150px;
+    margin-top: -27px;
+}
+
+.gears{
+    color: rgb(0, 110, 255);
+    width: 50px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: smaller;
+    margin-left: 240px;
+    margin-top: -21.5px;
+}
+
+.Amy{
+    position: absolute;
+    right: 520px;
+    top: 620px;
+    color: #050404;
+}
+
+.Warrior{
+    color: rgb(0, 1, 1);
+    position: absolute;
+    right:565px;
+    top: 645px;
+}
+
+.Anthony{
+    position: absolute;
+    right: 160px;
+    top: 620px;
+    color: #050404;
+}
+
+.Lyndhurst{
+    color: rgb(0, 1, 1);
+    position: absolute;
+    right:215px;
+    top: 645px;
+}
